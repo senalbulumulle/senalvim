@@ -11,3 +11,5 @@ Senal's NeoVim configuration
 - Custom UI Features
 - Faster Performance
 - AI Features
+- Compatible for Older Versions of Neovim
+- Compatible for Latest Versions of Neovim
