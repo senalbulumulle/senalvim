@@ -41,5 +41,5 @@ for developing purposes:
 ### Using neovim version
 
 ```shell
-cd senalvim && cd nvim && nvim -u init.lua
+nvim -u nvim/init.lua
 ```
