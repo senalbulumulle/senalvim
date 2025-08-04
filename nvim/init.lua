@@ -18,7 +18,8 @@ vim.opt.termguicolors = true
 vim.g.mapleader = ' '
 
 -- Basic key mappings --
-vim.keymap.set('n', '<leader>h', ':nohlsearch<CR>')
-vim.keymap.set('n', '<leader>w', ':w<CR>')
-vim.keymap.set('n', '<leader>q', ':q<CR>')
-vim.keymap.set('n', '<leader>pr', ':Explore<CR>')
+vim.keymap.set('n', 'lkj', 'dd', { noremap = true })
+vim.keymap.set('n', 'asd',':w', { noremap = true })
+vim.keymap.set('n', 'zxc',':wq!', { noremap = true })
+
+
