@@ -10,7 +10,7 @@ Senal's NeoVim configuration
 - Custom UI Features
 - Faster Performance
 - AI Features
-- Compatible for Older Versions of Neovim (Example: NVIM v0.9.5)
+- Compatible for Older Versions of Neovim (Example: NVIM v0.9.5) [Still working on issues on that]
 - Compatible for Latest Versions of Neovim (Example: NVIM v0.11.2)
 
 
