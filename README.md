@@ -32,6 +32,10 @@ The package manager for senalvim is based on shell scripts. Essentially cloned i
 the right directory of neovim (Like it should be).
 
 
+So where is the package manager at? Well it is in the `senalvim/shell-scripts`
+directory.
+
+
 
 ## Running SenalVIM for developing purposes
 
