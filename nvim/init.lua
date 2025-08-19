@@ -18,6 +18,7 @@ vim.opt.termguicolors = true
 vim.g.mapleader = ' '
 
 -- Basic key mappings --
+-- This is inspired from Senal's Piano Skills --
 vim.keymap.set('n', 'lkj', 'dd', { noremap = true })
 vim.keymap.set('n', 'asd',':w', { noremap = true })
 vim.keymap.set('n', 'zxc',':wq!', { noremap = true })
