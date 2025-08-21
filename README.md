@@ -26,7 +26,7 @@ for this build? Well, senalvim is not a really a neovim distribution of neovim
 but it is a wrapper for neovim. 
 
 
-The end result???? Perfomance.....
+The end result???? Performance.....
 
 The package manager for senalvim is based on shell scripts. Essentially cloned into 
 the right directory of neovim (Like it should be).
@@ -47,3 +47,12 @@ for developing purposes:
 ```shell
 nvim -u nvim/init.lua
 ```
+
+
+
+## Keybindings in senalvim 
+
+In this section, we are going to be talking about the keybindings in senalvim.
+
+
+
