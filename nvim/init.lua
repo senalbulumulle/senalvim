@@ -19,8 +19,13 @@ vim.g.mapleader = ' '
 
 -- Basic key mappings --
 -- This is inspired from Senal's Piano Skills --
+--
+
+-- This allows the ability to delete a line
 vim.keymap.set('n', 'lkj', 'dd', { noremap = true })
+-- This allows the ability to save the file
 vim.keymap.set('n', 'asd',':w', { noremap = true })
+-- This allows the ability to save the file and quit
 vim.keymap.set('n', 'zxc',':wq!', { noremap = true })
 
 
