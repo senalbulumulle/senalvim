@@ -22,3 +22,8 @@ vim.g.mapleader = ' '
 vim.keymap.set('n', 'lkj', 'dd', { noremap = true })
 vim.keymap.set('n', 'asd',':w', { noremap = true })
 vim.keymap.set('n', 'zxc',':wq!', { noremap = true })
+
+
+
+-- Make it disable the normal startup screen --
+vim.opt.shortmess:append('I')
