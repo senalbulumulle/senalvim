@@ -56,3 +56,9 @@ In this section, we are going to be talking about the keybindings in senalvim.
 
 ### lkj
 Allow the ability to delete a line
+
+### asd & enter
+Allow the ability to save a file
+
+### zxc & enter
+Allow the ability to save a file and quit senalvim
