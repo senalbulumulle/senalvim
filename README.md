@@ -54,5 +54,5 @@ nvim -u nvim/init.lua
 
 In this section, we are going to be talking about the keybindings in senalvim.
 
-
-
+### lkj
+Allow the ability to delete a line
