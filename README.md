@@ -50,6 +50,12 @@ nvim -u nvim/init.lua
 
 
 
+## Keyboards that support senalvim
+
+In this section, we are going to be talking about the keyboards that
+support senalvim
+
+
 ## Keybindings in senalvim 
 
 In this section, we are going to be talking about the keybindings in senalvim.
