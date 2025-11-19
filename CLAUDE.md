@@ -14,10 +14,10 @@ The project intentionally avoids package managers like lazy.nvim or packer.nvim.
 ### Custom Keybindings
 The configuration uses unconventional keybindings inspired by piano-like hand positions:
 - `lkj` - delete line (instead of `dd`)
-- `asd<Enter>` - save file (instead of `:w`)
-- `zxc<Enter>` - save and quit (instead of `:wq`)
+- `asd` followed by `<Enter>` - save file (instead of `:w<Enter>`)
+- `zxc` followed by `<Enter>` - save and quit with force (instead of `:wq!<Enter>`)
 
-These are defined in nvim/init.lua:22-24.
+These mappings are defined in `nvim/init.lua`.
 
 ## Development Commands
 
@@ -28,13 +28,19 @@ make run
 nvim -u nvim/init.lua
 ```
 
+### Installing senalvim
+```bash
+make install
+```
+Note: The install target copies `nvim/` to `~/.config/` - you may need to update the path in the Makefile for your system.
+
 ### Installing Plugins
 Execute the appropriate shell script from the `shell-scripts/` directory:
 ```bash
 bash shell-scripts/install-package--plenary.nvim.sh
 ```
 
-Each script clones a plugin repository directly into Neovim's pack path.
+Each script clones a plugin repository directly into `~/.local/share/nvim/site/pack/plugins/start/`.
 
 ## Codebase Structure
 
