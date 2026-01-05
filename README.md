@@ -6,16 +6,6 @@ Senal's NeoVim configuration
 
 </div>
 
-## Features 
-- Custom UI Features
-- Faster Performance
-- AI Features
-- Compatible for Older Versions of Neovim (Example: NVIM v0.9.5) [Still working on issues on that]
-- Compatible for Latest Versions of Neovim (Example: NVIM v0.11.2)
-
-
-## Requirements: 
-
 
 
 
@@ -54,9 +44,6 @@ nvim -u nvim/init.lua
 
 In this section, we are going to be talking about the keyboards that
 support senalvim
-
-
-- Razer keyboard 60%
 
 
 ## Keybindings in senalvim 
