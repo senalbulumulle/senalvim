@@ -23,7 +23,8 @@ the right directory of neovim (Like it should be).
 
 
 So where is the package manager at? Well it is in the `senalvim/shell-scripts`
-directory.
+directory... psst... eventually the new shell-scripts functionality is going 
+to be documented soon.
 
 
 
