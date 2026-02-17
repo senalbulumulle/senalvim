@@ -40,6 +40,21 @@ nvim -u nvim/init.lua
 ```
 
 
+## F+ keyboards for shortcuts in senalvim
+
+In this section, we are going to be talking about the ascii communication
+with senalvim. when it comes to the keyboards and ascii communication, the
+innovation behind it is making custom keyboard only for specific use-cases
+for senalvim. Inspired by the meme F25 key
+
+Use Cases: 
+
+- Search
+- Find and Replace
+- Find and Replace in Folder
+- Running a program
+- GIT commands
+
 
 ## Keyboards that support senalvim
 
