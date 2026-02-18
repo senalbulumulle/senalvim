@@ -56,6 +56,13 @@ Use Cases:
 - GIT commands
 
 
+## Hardware that would support this:
+
+That is a complete good question, but this part will come soon
+
+
+
+
 ## Keyboards that support senalvim
 
 In this section, we are going to be talking about the keyboards that
