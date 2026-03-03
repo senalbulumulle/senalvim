@@ -8,6 +8,19 @@ Senal's NeoVim configuration
 
 
 
+## Keybindings in senalvim 
+
+In this section, we are going to be talking about the keybindings in senalvim.
+
+### lkj
+Allow the ability to delete a line
+
+### asd & enter
+Allow the ability to save a file
+
+### zxc & enter
+Allow the ability to save a file and quit senalvim
+
 
 ## Why senalVIM has no typical neovim package manager?
 
@@ -54,33 +67,3 @@ Use Cases:
 - Find and Replace in Folder
 - Running a program
 - GIT commands
-
-
-## Hardware that would support this:
-
-That is a complete good question, but this part will come soon
-
-
-
-
-## Keyboards that support senalvim
-
-In this section, we are going to be talking about the keyboards that
-support senalvim
-
-
-- SteelSeries
-
-
-## Keybindings in senalvim 
-
-In this section, we are going to be talking about the keybindings in senalvim.
-
-### lkj
-Allow the ability to delete a line
-
-### asd & enter
-Allow the ability to save a file
-
-### zxc & enter
-Allow the ability to save a file and quit senalvim
