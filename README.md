@@ -22,6 +22,14 @@ Allow the ability to save a file
 Allow the ability to save a file and quit senalvim
 
 
+### :S
+Horizontal Split and Netrw buffer
+
+
+### :V
+Vertical Split and Netrw buffer
+
+
 ## Why senalVIM has no typical neovim package manager?
 
 Well, you may be asking, Senal, why there is no typical neovim package manager
