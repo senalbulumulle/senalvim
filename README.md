@@ -1,5 +1,5 @@
 # <div align="center">senalvim</div>
-
+-
 <div align="center">
 
 Senal's NeoVim configuration
