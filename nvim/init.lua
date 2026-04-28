@@ -1,3 +1,6 @@
+-- This file is part of SeanlVIM --
+
+
 vim.opt.number = true
 vim.opt.mouse = 'a'
 vim.opt.ignorecase = true
