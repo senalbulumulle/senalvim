@@ -1,4 +1,4 @@
--- This file is part of SeanlVIM --
+-- This file is part of SenalVIM --
 
 
 vim.opt.number = true
